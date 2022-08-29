@@ -18,7 +18,7 @@ Los colores que se eligieron para la página son `#409537` , `#000000` , `#FFFF0
 
 ## Logo de la página.
 
-![logo-Coli-mundo3d.png](https://i.postimg.cc/DzP6nH1t/logo-Coli-mundo3d.png)](https://postimg.cc/XZXdg2H8)
+[![logo-Coli-mundo3d.png](https://i.postimg.cc/DzP6nH1t/logo-Coli-mundo3d.png)](https://postimg.cc/XZXdg2H8)
 
 ## Links de los archivos FIGMA
 
